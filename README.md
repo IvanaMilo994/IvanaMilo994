@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivanamilo994&label=Profile%20views&color=0e75b6&style=flat" alt="ivanamilo994" /> </p>
 
-- 🔭 I’m currently working on ** web development projects**
+- 🔭 I’m currently working on web development projects
 
 - 🌱 I’m currently working with **React js and HTML, CSS, SASS, JavaScript, jQuery, Bootstrap, WordPress**
 
-- 👯 I’m looking for a ** junior position**
+- 👯 I’m looking for a junior position
 
 - 🤝 I’m looking for help with **React projects**, this is my next step to learn good
 
-- 👨‍💻 All of my projects are available here, or you can ask me if I'm working on it
+- 👨‍💻 Some of my projects are available here, or you can ask me if I'm working on it
 
 - 💬 Ask me about **my projects or my frontend journey**
 
